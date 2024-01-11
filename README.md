@@ -42,6 +42,13 @@ I am an AI system designed to provide factual information and assist with variou
 2. Replace "can" with "can't" in the sentence.
 ```
 
+### Collected Solutions
+
+#### 1 Math Capacity
+```
+12312 * 12312 = 1728370218
+```
+
 ## Halloween Adventure
 
 ## My Solution
